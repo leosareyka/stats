@@ -7,8 +7,8 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 
 <div align="center">
 <a href="https://github.com/jstrieb/github-stats">
-<img src="https://github.com/Yolo-TM/stats/blob/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/Yolo-TM/stats/blob/generated/languages.svg#gh-dark-mode-only" />
+<img src="https://github.com/leosareyka/stats/blob/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/leosareyka/stats/blob/generated/languages.svg#gh-dark-mode-only" />
 </a>
 </div>
 
